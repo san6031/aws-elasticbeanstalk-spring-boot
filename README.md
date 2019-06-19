@@ -1,6 +1,8 @@
 # Intro
 This is a simple Spring Boot application written for the article here: https://blog.arnoldgalovics.com/deploying-a-simple-spring-boot-with-mysql-app-to-aws-using-elastic-beanstalk/
 
+https://medium.com/oril/uploading-files-to-aws-s3-bucket-using-spring-boot-483fcb6f8646
+
 Its a basic Spring Boot application acting as a bookstore with 2 exposed HTTP endpoints. 
 The application also uses a MySQL database as a backing data storage.
 
